@@ -1,0 +1,34 @@
+C:\Users\Abir Hbecha\Desktop\Examen\E.Infrastructure\bin\Debug\net6.0\E.Infrastructure.deps.json
+C:\Users\Abir Hbecha\Desktop\Examen\E.Infrastructure\bin\Debug\net6.0\E.Infrastructure.runtimeconfig.json
+C:\Users\Abir Hbecha\Desktop\Examen\E.Infrastructure\bin\Debug\net6.0\E.Infrastructure.dll
+C:\Users\Abir Hbecha\Desktop\Examen\E.Infrastructure\bin\Debug\net6.0\E.Infrastructure.pdb
+C:\Users\Abir Hbecha\Desktop\Examen\E.Infrastructure\bin\Debug\net6.0\E.ApplicationCore.dll
+C:\Users\Abir Hbecha\Desktop\Examen\E.Infrastructure\bin\Debug\net6.0\E.ApplicationCore.pdb
+C:\Users\Abir Hbecha\Desktop\Examen\E.Infrastructure\obj\Debug\net6.0\E.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Abir Hbecha\Desktop\Examen\E.Infrastructure\obj\Debug\net6.0\E.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abir Hbecha\Desktop\Examen\E.Infrastructure\obj\Debug\net6.0\E.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Abir Hbecha\Desktop\Examen\E.Infrastructure\obj\Debug\net6.0\E.Infrastructure.AssemblyInfo.cs
+C:\Users\Abir Hbecha\Desktop\Examen\E.Infrastructure\obj\Debug\net6.0\E.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Abir Hbecha\Desktop\Examen\E.Infrastructure\obj\Debug\net6.0\E.Infrastructure.csproj.CopyComplete
+C:\Users\Abir Hbecha\Desktop\Examen\E.Infrastructure\obj\Debug\net6.0\E.Infrastructure.dll
+C:\Users\Abir Hbecha\Desktop\Examen\E.Infrastructure\obj\Debug\net6.0\refint\E.Infrastructure.dll
+C:\Users\Abir Hbecha\Desktop\Examen\E.Infrastructure\obj\Debug\net6.0\E.Infrastructure.pdb
+C:\Users\Abir Hbecha\Desktop\Examen\E.Infrastructure\obj\Debug\net6.0\E.Infrastructure.genruntimeconfig.cache
+C:\Users\Abir Hbecha\Desktop\Examen\E.Infrastructure\obj\Debug\net6.0\ref\E.Infrastructure.dll
+D:\.NET2022-2023\Repo-1Semestre\Revision2\Examen\E.Infrastructure\bin\Debug\net6.0\E.Infrastructure.deps.json
+D:\.NET2022-2023\Repo-1Semestre\Revision2\Examen\E.Infrastructure\bin\Debug\net6.0\E.Infrastructure.runtimeconfig.json
+D:\.NET2022-2023\Repo-1Semestre\Revision2\Examen\E.Infrastructure\bin\Debug\net6.0\E.Infrastructure.dll
+D:\.NET2022-2023\Repo-1Semestre\Revision2\Examen\E.Infrastructure\bin\Debug\net6.0\E.Infrastructure.pdb
+D:\.NET2022-2023\Repo-1Semestre\Revision2\Examen\E.Infrastructure\bin\Debug\net6.0\E.ApplicationCore.dll
+D:\.NET2022-2023\Repo-1Semestre\Revision2\Examen\E.Infrastructure\bin\Debug\net6.0\E.ApplicationCore.pdb
+D:\.NET2022-2023\Repo-1Semestre\Revision2\Examen\E.Infrastructure\obj\Debug\net6.0\E.Infrastructure.csproj.AssemblyReference.cache
+D:\.NET2022-2023\Repo-1Semestre\Revision2\Examen\E.Infrastructure\obj\Debug\net6.0\E.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET2022-2023\Repo-1Semestre\Revision2\Examen\E.Infrastructure\obj\Debug\net6.0\E.Infrastructure.AssemblyInfoInputs.cache
+D:\.NET2022-2023\Repo-1Semestre\Revision2\Examen\E.Infrastructure\obj\Debug\net6.0\E.Infrastructure.AssemblyInfo.cs
+D:\.NET2022-2023\Repo-1Semestre\Revision2\Examen\E.Infrastructure\obj\Debug\net6.0\E.Infrastructure.csproj.CoreCompileInputs.cache
+D:\.NET2022-2023\Repo-1Semestre\Revision2\Examen\E.Infrastructure\obj\Debug\net6.0\E.Infrastructure.csproj.CopyComplete
+D:\.NET2022-2023\Repo-1Semestre\Revision2\Examen\E.Infrastructure\obj\Debug\net6.0\E.Infrastructure.dll
+D:\.NET2022-2023\Repo-1Semestre\Revision2\Examen\E.Infrastructure\obj\Debug\net6.0\refint\E.Infrastructure.dll
+D:\.NET2022-2023\Repo-1Semestre\Revision2\Examen\E.Infrastructure\obj\Debug\net6.0\E.Infrastructure.pdb
+D:\.NET2022-2023\Repo-1Semestre\Revision2\Examen\E.Infrastructure\obj\Debug\net6.0\E.Infrastructure.genruntimeconfig.cache
+D:\.NET2022-2023\Repo-1Semestre\Revision2\Examen\E.Infrastructure\obj\Debug\net6.0\ref\E.Infrastructure.dll

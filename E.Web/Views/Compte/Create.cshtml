@@ -1,0 +1,65 @@
+﻿@model E.ApplicationCore.Domain.Compte
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Compte</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="NumeroCompte" class="control-label"></label>
+                <input asp-for="NumeroCompte" class="form-control" />
+                <span asp-validation-for="NumeroCompte" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Proprietaire" class="control-label"></label>
+                <input asp-for="Proprietaire" class="form-control" />
+                <span asp-validation-for="Proprietaire" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Solde" class="control-label"></label>
+                <input asp-for="Solde" class="form-control" />
+                <span asp-validation-for="Solde" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Type" class="control-label"></label>
+                @*<input asp-for="Type" class="form-control" />*@
+                <select asp-for="Type" class="form-control"
+                asp-items="Html.GetEnumSelectList<E.ApplicationCore.Domain.TypeCompte>()"
+                ></select>
+                <span asp-validation-for="Type" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Date" class="control-label"></label>
+                <input asp-for="Date" class="form-control" />
+                <span asp-validation-for="Date" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BanqueFk" class="control-label"></label>
+               @* <input asp-for="BanqueFk" class="form-control" />*@
+               <select asp-for="BanqueFk" class="form-control"
+               
+               asp-items=" ViewBag.BanqueList"
+               ></select>
+                <span asp-validation-for="BanqueFk" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

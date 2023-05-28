@@ -1,0 +1,24 @@
+C:\Users\Abir Hbecha\Desktop\Examen\E.ApplicationCore\bin\Debug\net6.0\E.ApplicationCore.deps.json
+C:\Users\Abir Hbecha\Desktop\Examen\E.ApplicationCore\bin\Debug\net6.0\E.ApplicationCore.dll
+C:\Users\Abir Hbecha\Desktop\Examen\E.ApplicationCore\bin\Debug\net6.0\E.ApplicationCore.pdb
+C:\Users\Abir Hbecha\Desktop\Examen\E.ApplicationCore\obj\Debug\net6.0\E.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\Abir Hbecha\Desktop\Examen\E.ApplicationCore\obj\Debug\net6.0\E.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abir Hbecha\Desktop\Examen\E.ApplicationCore\obj\Debug\net6.0\E.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\Abir Hbecha\Desktop\Examen\E.ApplicationCore\obj\Debug\net6.0\E.ApplicationCore.AssemblyInfo.cs
+C:\Users\Abir Hbecha\Desktop\Examen\E.ApplicationCore\obj\Debug\net6.0\E.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\Abir Hbecha\Desktop\Examen\E.ApplicationCore\obj\Debug\net6.0\E.ApplicationCore.dll
+C:\Users\Abir Hbecha\Desktop\Examen\E.ApplicationCore\obj\Debug\net6.0\refint\E.ApplicationCore.dll
+C:\Users\Abir Hbecha\Desktop\Examen\E.ApplicationCore\obj\Debug\net6.0\E.ApplicationCore.pdb
+C:\Users\Abir Hbecha\Desktop\Examen\E.ApplicationCore\obj\Debug\net6.0\ref\E.ApplicationCore.dll
+D:\.NET2022-2023\Repo-1Semestre\Revision2\Examen\E.ApplicationCore\bin\Debug\net6.0\E.ApplicationCore.deps.json
+D:\.NET2022-2023\Repo-1Semestre\Revision2\Examen\E.ApplicationCore\bin\Debug\net6.0\E.ApplicationCore.dll
+D:\.NET2022-2023\Repo-1Semestre\Revision2\Examen\E.ApplicationCore\bin\Debug\net6.0\E.ApplicationCore.pdb
+D:\.NET2022-2023\Repo-1Semestre\Revision2\Examen\E.ApplicationCore\obj\Debug\net6.0\E.ApplicationCore.csproj.AssemblyReference.cache
+D:\.NET2022-2023\Repo-1Semestre\Revision2\Examen\E.ApplicationCore\obj\Debug\net6.0\E.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET2022-2023\Repo-1Semestre\Revision2\Examen\E.ApplicationCore\obj\Debug\net6.0\E.ApplicationCore.AssemblyInfoInputs.cache
+D:\.NET2022-2023\Repo-1Semestre\Revision2\Examen\E.ApplicationCore\obj\Debug\net6.0\E.ApplicationCore.AssemblyInfo.cs
+D:\.NET2022-2023\Repo-1Semestre\Revision2\Examen\E.ApplicationCore\obj\Debug\net6.0\E.ApplicationCore.csproj.CoreCompileInputs.cache
+D:\.NET2022-2023\Repo-1Semestre\Revision2\Examen\E.ApplicationCore\obj\Debug\net6.0\E.ApplicationCore.dll
+D:\.NET2022-2023\Repo-1Semestre\Revision2\Examen\E.ApplicationCore\obj\Debug\net6.0\refint\E.ApplicationCore.dll
+D:\.NET2022-2023\Repo-1Semestre\Revision2\Examen\E.ApplicationCore\obj\Debug\net6.0\E.ApplicationCore.pdb
+D:\.NET2022-2023\Repo-1Semestre\Revision2\Examen\E.ApplicationCore\obj\Debug\net6.0\ref\E.ApplicationCore.dll

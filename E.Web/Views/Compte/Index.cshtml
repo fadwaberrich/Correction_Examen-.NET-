@@ -1,0 +1,83 @@
+﻿@model IEnumerable<E.ApplicationCore.Domain.Compte>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+<form asp-action="index">
+<fieldset>
+<legend> Recherche</legend>
+Saisir un type:
+
+            
+<select  
+asp-items="Html.GetEnumSelectList<E.ApplicationCore.Domain.TypeCompte>()"
+    name="type" >
+    
+</select>
+
+<input type="submit" value="Serach" />
+</fieldset>
+</form>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.NumeroCompte)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Proprietaire)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Solde)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Type)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Date)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BanqueFk)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NumeroCompte)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Proprietaire)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Solde)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Type)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Date)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Banque.Nom)
+            </td>
+             <td>
+                @Html.ActionLink(linkText: "Modifier Banque", actionName: "Edit", controllerName: "Banque", routeValues: new { id = item.BanqueFk }, htmlAttributes: null) |
+            </td>
+           @* <td>
+                @Html.ActionLink("Edit", "Edit", new {  id=item.BanqueFk  }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>*@
+        </tr>
+}
+    </tbody>
+</table>
